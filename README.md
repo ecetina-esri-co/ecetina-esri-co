@@ -4,7 +4,7 @@
 
 ### Corporate-minded engineer building geospatial products, ArcGIS solutions and GeoAI workflows
 
-Ingeniero de desarrollo en **Esri Colombia**. Trabajo en la intersección de **software engineering, ArcGIS, automatización e inteligencia aplicada** para construir soluciones útiles, mantenibles y listas para operar en entornos reales.
+Ingeniero de desarrollo en **Esri Colombia**. Trabajo en la intersección de **software engineering, ArcGIS, automatización e inteligencia artificial aplicada** para construir soluciones útiles, mantenibles y listas para operar en entornos reales.
 
 [![Email](https://img.shields.io/badge/Email-ecetina%40esri.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecetina@esri.co)
 [![GitHub](https://img.shields.io/badge/GitHub-ecetina--esri--co-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecetina-esri-co)
