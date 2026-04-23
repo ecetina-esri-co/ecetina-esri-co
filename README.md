@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./banner_readme.jpg" alt="Fabian Cetina banner" width="100%" />
+
 # Fabian Cetina
 
-### Corporate-minded engineer building geospatial products, ArcGIS solutions and GeoAI workflows
+### Corporate-minded engineer delivering ArcGIS, geospatial and GeoAI products with engineering rigor
 
-Ingeniero de desarrollo en **Esri Colombia**. Trabajo en la intersección de **software engineering, ArcGIS, automatización e inteligencia artificial aplicada** para construir soluciones útiles, mantenibles y listas para operar en entornos reales.
+Ingeniero de desarrollo en **Esri Colombia**, enfocado en transformar necesidades de negocio en productos geoespaciales claros, mantenibles y listos para operar. Mi trabajo conecta **software engineering, ArcGIS, automatización e IA aplicada** con una mentalidad de producto, arquitectura y entrega continua.
 
 [![Email](https://img.shields.io/badge/Email-ecetina%40esri.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecetina@esri.co)
 [![GitHub](https://img.shields.io/badge/GitHub-ecetina--esri--co-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecetina-esri-co)
@@ -15,23 +17,30 @@ Ingeniero de desarrollo en **Esri Colombia**. Trabajo en la intersección de **s
 
 ---
 
-## Executive Summary
+## About
 
-Diseño y construyo productos y herramientas donde convergen:
+Diseño y construyo soluciones donde convergen contexto geoespacial, criterio técnico y foco de negocio.
 
-- **ArcGIS y tecnología geoespacial**
-- **Python, TypeScript y desarrollo moderno**
-- **automatización de procesos y developer workflows**
-- **GeoAI e integración de capacidades inteligentes**
+- **ArcGIS y tecnología geoespacial** para productos y operaciones reales
+- **Python, TypeScript y desarrollo moderno** para soluciones escalables
+- **Automatización y developer workflows** para acelerar equipos con calidad
+- **GeoAI e integración de capacidades inteligentes** con enfoque aplicado
 
-Mi enfoque combina una mentalidad **corporate** con una práctica muy concreta de **build things**: menos discurso, más sistemas que funcionen, escalen y generen valor.
+Me interesa construir sistemas que funcionen más allá de la demo: con estructura, claridad arquitectónica, velocidad de ejecución y valor tangible para quienes los usan.
+
+## Value Proposition
+
+- Traduzco necesidades de negocio en soluciones técnicas concretas y ejecutables
+- Conecto **GIS, backend, frontend e IA** sin perder claridad arquitectónica
+- Equilibro visión de producto, mantenibilidad y capacidad real de operación
+- Trabajo con una lógica simple: **menos discurso, más software útil y sostenible**
 
 ## What I Build
 
 - Soluciones basadas en **ArcGIS** para casos de uso reales
 - APIs, utilidades y componentes para productos internos y externos
 - Flujos de automatización para acelerar equipos de desarrollo
-- Experiencias y herramientas donde **GIS + AI** trabajan juntas
+- Experiencias y herramientas donde **GIS + IA** trabajan juntas
 - Integraciones entre plataformas, servicios y datos geoespaciales
 
 ## Core Stack
